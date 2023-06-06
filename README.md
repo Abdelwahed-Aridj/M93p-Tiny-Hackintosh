@@ -15,6 +15,7 @@
 ## System Specifications
   
 | Component | Model |
+| :-: | :-: |
 | MacOS | macOS Ventura Version 13.4 (Build 22F66) |
 | CPU | Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz |
 | RAM | (12GB) of DDR3-1600 |
